@@ -1,4 +1,4 @@
-use simetrik;
+use base;
 CREATE TABLE transfers 
 (
     Player_Name	VARCHAR(512),
