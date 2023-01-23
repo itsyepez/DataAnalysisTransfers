@@ -1,8 +1,8 @@
 Enterprise DNA's Challenge 24 "Sport-Players Summer Transfer Season 2022-23"
 
-Consultas en Lenguaje SQL realizadas para responder al desafío.
+Consultas en Lenguaje SQL realizadas para responder al analisis.
 
-Motor de base de datos: Postgre SQL
+Motor de base de datos: MYSQL
 
 1.Requerimientos a responder:
 
